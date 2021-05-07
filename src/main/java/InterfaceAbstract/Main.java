@@ -1,5 +1,7 @@
 package InterfaceAbstract;
 
+import InterfaceAbstract.Abstracts.BaseCustomerManager;
+
 import java.time.format.DateTimeFormatter;
 
 public class Main {

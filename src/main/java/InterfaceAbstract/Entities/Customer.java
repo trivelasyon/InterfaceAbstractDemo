@@ -13,8 +13,6 @@ public class Customer implements InterfaceAbstract.Ientity {
     private DateTimeFormatter dateTimeFormatter;
 
 
-
-
     public Customer(int id, String firstName, String lastName, String nationalityId, DateTimeFormatter dateTimeFormatter) {
         this.Id = id;
         this.firstName = firstName;
